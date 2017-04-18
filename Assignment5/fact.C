@@ -15,7 +15,7 @@
  
  int myfact(int num)
  {
- int res=0;
+ int rev=0;
  if (num==1)
  { 
  return num;
